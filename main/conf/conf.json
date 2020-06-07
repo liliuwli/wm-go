@@ -1,0 +1,6 @@
+{
+  "Name": "v1.0server",
+  "Host": "0.0.0.0",
+  "TcpPort": 5201,
+  "MaxPackageSize": 4096
+}
